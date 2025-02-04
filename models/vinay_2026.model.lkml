@@ -26,6 +26,7 @@ explore: billion_orders {
 
 explore: bud {}
 
+explore: sql_runner_query {}
 explore: budget {}
 
 explore: budgets {}
